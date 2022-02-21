@@ -5,7 +5,7 @@ potential minor in Software Engineering.
 
 ## Links
 
-🚀[Writeups & Blog](https://ashleynikr.github.io/)
+🚀 [Writeups & Blog](https://ashleynikr.github.io/)
 
 🌀 [Resume](https://ashleynikr.github.io/AshleyNikirkResume.pdf)
 
