@@ -11,4 +11,4 @@ potential minor in Software Engineering.
 
 🌺 [LinkedIn](https://www.linkedin.com/in/ashley-nikirk-41298621a/)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshleyNikr&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshleyNikr&show_icons=true&theme=radical&count_private=true)
