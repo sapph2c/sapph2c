@@ -4,9 +4,9 @@ I am a second-year BS/MS student at Rochester Institute of Technology. I am majo
 
 ## Links
 
-🚀 [Writeups & Blog](https://ashleynikr.github.io/)
+🚀 [Personal Blog](https://ashleynikirk.com/)
 
-🌀 [Resume](https://ashleynikr.github.io/AshleyNikirkResume.pdf)
+🌀 [Resume](https://www.ashleynikirk.com/resume/)
 
 🌺 [LinkedIn](https://www.linkedin.com/in/ashley-nikirk/)
 
