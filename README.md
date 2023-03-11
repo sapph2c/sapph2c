@@ -1,6 +1,6 @@
 ## Hi!
 
-I am a second-year BS/MS student at Rochester Institute of Technology. I am majoring in Computing Security and have a passion for homellabbing, software engineering, and DevOps.
+I am a second-year BS/MS student at Rochester Institute of Technology. I am majoring in Computing Security and have a passion for homelabbing, software engineering, and DevOps.
 
 ## Links
 
