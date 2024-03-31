@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/sapph2c/README/blob/main/readme.gif" width=450px height=150px></img>
-
 Hi! My name is Ashley Nikirk and I am a third year student at Rochester Insitute of Technology (RIT).
 
   <a href="https://linked.com/in/ashley-nikirk">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
