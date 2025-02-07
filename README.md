@@ -1,11 +1,17 @@
+## 👋 Hey there, I'm Ashley!
 
+I'm an incoming **Software Engineer at NVIDIA** and a **fourth-year student at Rochester Institute of Technology (RIT)**.  
 
-Hi! My name is Ashley Nikirk and I am a incoming software engineer at NVIDIA, as well as a fourth year student at the Rochester Insitute of Technology (RIT).
+### 💡 About Me  
+- 🎓 Studying Computer Security at RIT  
+- 💻 Passionate about **software development and automation**  
+- 📡 Homelab enthusiast
+- 🏔️ Hiking and 📖 reading in my free time  
 
+### 🛠️ Tech Stack  
+- **Languages:** Python, Go
+- **Technologies:** Docker, Kubernetes, Linux (Arch btw)
+- **Interests:** Cloud computing ☁️
 
-
-<div align="center">
-
-
-  <a href="https://linked.com/in/ashley-nikirk">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-  <a href="https://github.com/sponsors/sapph2c">![Github-sponsors](https://img.shields.io/badge/sponsor-pink?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)</a>
+### Projects
+- [Exifool](https://docs.sapph2c.dev)  
