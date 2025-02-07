@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm Ashley!
+## Hey there, I'm Ashley aka sapph2c
 
 I'm an incoming **Software Engineer at NVIDIA** and a **fourth-year student at Rochester Institute of Technology (RIT)**.  
 
