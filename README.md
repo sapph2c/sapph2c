@@ -14,4 +14,5 @@ I'm an incoming **Software Engineer at NVIDIA** and a **fourth-year student at R
 - **Interests:** Cloud computing ☁️
 
 ### Projects
-- [Exifool](https://docs.sapph2c.dev)  
+- [Exifool](https://docs.sapph2c.dev/exifool/)
+- [Mentat](https://docs.sapph2c.dev/mentat/)  
