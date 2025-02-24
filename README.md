@@ -15,5 +15,6 @@ I'm an incoming **Software Engineer at NVIDIA** and a **fourth-year student at R
 
 ### Projects
 - [Exifool](https://docs.sapph2c.dev/exifool/)
+- [Metafind](https://docs.sapph2c.dev/metafind/)
 - [Mentat](https://docs.sapph2c.dev/mentat/)
 - [Hydro](https://docs.sapph2c.dev/hydro/)
